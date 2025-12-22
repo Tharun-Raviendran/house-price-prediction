@@ -80,7 +80,7 @@ pytest tests/test_inference.py
 pytest -v
 ```
 
-### Data Pipeline
+### Data Pipelines
 ```bash
 # 1. Load and split raw data
 python src/feature_pipeline/load.py
